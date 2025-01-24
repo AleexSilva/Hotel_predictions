@@ -2,14 +2,15 @@
 
 This project focuses on predicting hotel reservations using data analysis and machine learning techniques. The dataset contains historical booking data, and the goal is to develop a predictive model to determine whether a reservation will be honored or canceled. The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, and model training.
 
+![](./header.png)
+
 ## Table of Contents
 - [Data Dictionary](#DataDictionary)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Required Libraries](#required-libraries)
 - [Files and Dataset](#files-and-dataset)
-- [Contributing](#contributing)
-- [License](#license)
+- [Data](#Data)
 
 
 ### Data Dictionary
